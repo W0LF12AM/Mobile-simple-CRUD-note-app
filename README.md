@@ -1,17 +1,17 @@
-# crudbasic
+# 🔥 Simple CRUD Flutter + Firebase
 
-A new Flutter project.
+Project Flutter simpel untuk belajar **CRUD (Create, Read, Update, Delete)** data menggunakan **Firebase Firestore**. Cocok buat pemula yang baru mulai ngoding Flutter dan pengen ngulik backend ringan pakai Firebase.
 
-## Getting Started
+## 🚀 Fitur
+- Tambah data ke Firestore
+- Tampilkan daftar data secara realtime
+- Edit & hapus data
+- UI basic (belum responsif, buat belajar aja dulu)
 
-This project is a starting point for a Flutter application.
+## 🧱 Stack
+- Flutter
+- Firebase Firestore
+- firebase_core & cloud_firestore packages
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Mobile-simple-CRUD-note-app" 
+## 📌 Catatan
+📱 Aplikasi ini masih sangat sederhana dan belum responsif. Fokus utama hanya buat belajar dasar CRUD dengan Firebase.
